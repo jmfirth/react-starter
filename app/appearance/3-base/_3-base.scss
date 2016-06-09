@@ -1,0 +1,15 @@
+// ----------------------------------------------------------
+// 3-BASE: ground zero styles, unclassed HTML elements, type selectors: no classes
+// ----------------------------------------------------------
+@import "../1-settings/_1-settings.scss";
+@import "../2-tools/_2-tools.scss";
+
+html {
+  // 1em = 10px
+  font-size: 62.5%;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
