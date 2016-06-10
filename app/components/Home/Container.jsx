@@ -1,7 +1,5 @@
 import React from 'react'
 
-import Layout from 'components/Global/Layout'
-
 
 /**
  * Home container component
